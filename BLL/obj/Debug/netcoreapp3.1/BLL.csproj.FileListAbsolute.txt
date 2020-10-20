@@ -1,0 +1,14 @@
+C:\Users\haida\source\repos\GiaoVienUTEHY\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+C:\Users\haida\source\repos\GiaoVienUTEHY\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\haida\source\repos\GiaoVienUTEHY\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+C:\Users\haida\source\repos\GiaoVienUTEHY\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+C:\Users\haida\source\repos\GiaoVienUTEHY\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+C:\Users\haida\source\repos\GiaoVienUTEHY\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\haida\source\repos\GiaoVienUTEHY\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\haida\source\repos\GiaoVienUTEHY\BLL\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\haida\source\repos\GiaoVienUTEHY\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\haida\source\repos\GiaoVienUTEHY\BLL\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\haida\source\repos\GiaoVienUTEHY\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+C:\Users\haida\source\repos\GiaoVienUTEHY\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+C:\Users\haida\source\repos\GiaoVienUTEHY\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+C:\Users\haida\source\repos\GiaoVienUTEHY\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
